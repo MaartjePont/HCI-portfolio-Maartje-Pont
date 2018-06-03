@@ -88,6 +88,12 @@ p {
   text-align: center;
 }
 
+ul {
+  margin: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+
 #top {
   color: black;
 }
